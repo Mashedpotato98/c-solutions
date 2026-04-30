@@ -2,7 +2,7 @@
 
 Improve the `remind.c` program of Section 13.5 in the following ways:
 
-(a) Have the program print an error message and ignore a remainder if the
+(a) Have the program print an error message and ignore a reminder if the
 corresponding day is negative or larger than 31. *Hint*: Use a `continue`
 statement.  
 (b) Allow the user to enter a day, a 24-hour time and a reminder. The printed
